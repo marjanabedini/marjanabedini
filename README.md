@@ -29,7 +29,7 @@ I value continuous learning, collaboration, and building reliable data solutions
 
 Explore my portfolio repository:
 
-➡️ **Data Science Portfolio**
+➡️ **[Data Science Portfolio](https://github.com/marjanabedini/data-science-portfolio)**
 
 ---
 
