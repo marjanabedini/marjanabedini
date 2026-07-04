@@ -6,7 +6,7 @@ I'm a Data Scientist with a background in Statistics and an M.S. in Applied Data
 
 I enjoy solving real-world problems with data and transforming complex datasets into clear, practical insights that support better decision-making.
 
-I value continuous learning, collaboration, and building reliable data solutions. I'm currently expanding my AI knowledge through Google's AI Essentials program while continuing to strengthen my skills in machine learning and analytics.
+I enjoy continuous learning, collaborating with others, and building reliable data solutions. I'm currently expanding my AI knowledge through Google's AI Essentials program while continuing to strengthen my skills in machine learning and analytics.
 
 ---
 
@@ -14,20 +14,20 @@ I value continuous learning, collaboration, and building reliable data solutions
 
 - Python
 - SQL
-- R
 - Machine Learning
-- Data Analytics
 - Snowflake
 - dbt
 - Power BI
 - Tableau
+- R
+- Data Analytics
 - Data Visualization
 
 ---
 
 ## 📂 Portfolio
 
-Explore my portfolio repository:
+Explore my featured data science projects:
 
 ➡️ **[Data Science Portfolio](https://github.com/marjanabedini/data-science-portfolio)**
 
@@ -35,7 +35,7 @@ Explore my portfolio repository:
 
 ## 🌱 Currently Learning
 
-- Google AI Essentials
+- Google AI Essentials (Coursera)
 
 ---
 
